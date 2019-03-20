@@ -1,0 +1,23 @@
+{
+  "name": "nodepgms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addnumbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athiraani555/nodeworkshop.git"
+  },
+  "author": "athira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athiraani555/nodeworkshop/issues"
+  },
+  "homepage": "https://github.com/athiraani555/nodeworkshop#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
